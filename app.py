@@ -251,8 +251,7 @@ class VideoProcessor(VideoProcessorBase):
 # ---------------- WebRTC Config ----------------
 RTC_CONFIGURATION = RTCConfiguration({
     "iceServers": [
-        {"urls": ["stun:stun.l.google.com:19302"]},
-        {"urls": "turn:your-turn-server.com", "username": "user", "credential": "password"}
+        {"urls": ["stun:stun.l.google.com:19302"]}
     ]
 })
 
