@@ -1,0 +1,4 @@
+libopencv-core
+libopencv-dnn
+libopencv-imgproc
+libopencv-highgui
