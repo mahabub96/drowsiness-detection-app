@@ -1,1 +1,3 @@
+# apt.txt
 libgl1-mesa-glx
+libglib2.0-0  # Sometimes also needed for OpenCV
