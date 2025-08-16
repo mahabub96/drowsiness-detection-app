@@ -1,7 +1,3 @@
 # apt.txt
 libgl1-mesa-glx
 libglib2.0-0  # Sometimes also needed for OpenCV
-libopencv-core
-libopencv-dnn
-libopencv-imgproc
-libopencv-highgui
